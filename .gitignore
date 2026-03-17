@@ -1,0 +1,16 @@
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Index and cache (large generated files)
+rag_challenge/index/
+rag_challenge/cache/
+
+# Submission files
+rag_challenge/submission_*.json
+
+# IDE
+.idea/
+.vscode/
